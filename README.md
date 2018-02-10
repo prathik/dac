@@ -15,6 +15,9 @@ Divide and conquer. Solution for effective project management.
 - [ ] Delete all tasks
 - [ ] Update latest unfinished task
 - [ ] Update  tasks given id
+- [ ] Set task as complete
+- [ ] Create git commit with latest finished task
 - [ ] Goto string location
 - [ ] Delete string between given location
 - [ ] Insert string at location
+- [ ] Build CLI
