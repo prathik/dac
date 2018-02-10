@@ -4,17 +4,17 @@ Divide and conquer. Solution for effective project management.
 
 # TODO
 
-- [] Add task
-- [] Auto add/update todo section of README
-- [] Store tasks in sqlite locally
-- [] Print the latest unfinished task
-- [] Print a task given task id
-- [] Print all tasks
-- [] Delete latest task
-- [] Delete task given an id
-- [] Delete all tasks
-- [] Update latest unfinished task
-- [] Update  tasks given id
-- [] Goto string location
-- [] Delete string between given location
-- [] Insert string at location
+- [ ] Add task
+- [ ] Auto add/update todo section of README
+- [ ] Store tasks in sqlite locally
+- [ ] Print the latest unfinished task
+- [ ] Print a task given task id
+- [ ] Print all tasks
+- [ ] Delete latest task
+- [ ] Delete task given an id
+- [ ] Delete all tasks
+- [ ] Update latest unfinished task
+- [ ] Update  tasks given id
+- [ ] Goto string location
+- [ ] Delete string between given location
+- [ ] Insert string at location
